@@ -8,6 +8,7 @@ With this code, you would be able to generate:
 ### Figure 1: 
 <img src="./Figures/Figure%201.jpg" width="600"/>
 ### Figure 2: 
+<img src="./Figures/Figure%202.jpg" width="600"/>
 ### Figure 3:
 ### Figure 4: 
 
