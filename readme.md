@@ -6,8 +6,9 @@ rankings across disciplines"
 
 With this code, you would be able to generate:
 ### Figure 1: 
+<img src="./Figures/Figure%201.jpg" width="600"/>
 ### Figure 2: 
 ### Figure 3:
 ### Figure 4: 
 
-<img src="./Figures/Figure%204.jpg" width="800"/>
+<img src="./Figures/Figure%204.jpg" width="600"/>
